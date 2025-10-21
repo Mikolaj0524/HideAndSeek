@@ -1,0 +1,20 @@
+prefix: " \n&8 [&e&lHS&8] &6» &7"
+
+spawn:
+  x: 0
+  y: 100
+  z: 0
+  yaw: 180
+
+maps:
+  city:
+    loc:
+      x: 100
+      y: 100
+      z: 100
+      yaw: 90
+    blocks:
+      - STONE_BRICK_STAIRS
+      - EMERALD_ORE
+      - DIAMOND_ORE
+      - COBBLESTONE_SLAB

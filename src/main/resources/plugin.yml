@@ -1,0 +1,11 @@
+name: HideAndSeek
+version: '1.0-SNAPSHOT'
+main: fun.mikolaj0524.hideAndSeek.HideAndSeek
+api-version: '1.21'
+load: POSTWORLD
+authors: [ Mikolaj0524 ]
+description: plugin
+website: https://mikolaj0524.fun
+commands:
+  menu:
+    description: Main menu of hide and seek
