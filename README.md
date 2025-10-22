@@ -128,7 +128,7 @@ If you have ideas for improvements or find bugs, open an issue on GitHub.
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **GPLv3 License**.
 See the [LICENSE](LICENSE) file for details.
 
 ---
